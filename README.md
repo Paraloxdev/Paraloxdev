@@ -1,12 +1,21 @@
-🍻 Hakkımda
-Discord Onaylı Geliştiriciyim.
-discord.com/users/847135139384524800
-https://camo.githubusercontent.com/9bd3012b755b3026db5414429d38b09b0c2948e4672c8a44aea6b5432f89d05b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d69556775722673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874
-https://camo.githubusercontent.com/d452ceb850bf20f5fb4dfdc145f436b2a34c303ba322be6779b9b207a4906034/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6955677572266c61796f75743d636f6d70616374267468656d653d746f6b796f6e69676874
+<div align="center">
+  <h1>Hakkımda</h1>
+  <p>Discord Bot Developer.</p>
+  <br>
+  <br>
 
+<div align="center">
+   <a href="https://discord.com/users/847135139384524800" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/847135139384524800?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+   </a>
 
-
-
-
-İletişim
-discord.com/users/847135139384524800
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=iUgur&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
+  <br>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iUgur&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
+  <br> 
+</div>
+<br><br>
+  <h1>İletişim</h1>
+  <a href="https://discord.com/users/847135139384524800" target="_blank"><img src="https://shields.io/badge/Cheesey-111111.svg?&style=for-the-badge&logo=discord"></a>
+</div>
